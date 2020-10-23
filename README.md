@@ -2,10 +2,7 @@
 ### Written by Jay Sueno
 _Excel, VBA, Macros, Conditional Formatting_
 
-In this project, I automate an Excel workbook to pull relevant data from thousands of rows in multiple worksheet and outputs summary columns of the stocks. This is done using a macro and VBA script. This script retrieves values, calculates simple arithmetic functions, and returns the following outputs:
-* Greatest % Increase
-* Greatest % Decrease
-* Greatest Total Volume
+In this project, I automate an Excel workbook to pull relevant data from thousands of rows in multiple worksheet and outputs summary columns of the stocks. This is done using a macro and VBA script. This script retrieves values, calculates simple arithmetic functions, and returns summary tables of the stock market data.
 
 ## Files
 
