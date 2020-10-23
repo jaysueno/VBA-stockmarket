@@ -12,7 +12,7 @@ In this project, I automate an Excel workbook to pull relevant data from thousan
 
 ## About the Code
 
-* To read the VBA script: open "Sub market_breakdown().vb"
+* To read the VBA script: open "VBA_stockmarket.bas"
 * Created a "sub" function to run the macro script
 * Defined different variables: doubles, floats, string
 * "lastrow" function utilizes the "xlup" function: "ws.Cells(Rows.Count, 1).End(xlUp).Row"
