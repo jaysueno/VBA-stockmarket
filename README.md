@@ -1,4 +1,4 @@
-# Microsoft VBA Scripting Example
+# Microsoft VBA Scripting Project
 ### Written by Jay Sueno
 _Excel, VBA, Macros, Conditional Formatting_
 
