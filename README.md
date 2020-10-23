@@ -1,5 +1,6 @@
 # Microsoft VBA Scripting Example
-Excel, VBA, Macros, Conditional Formatting
+### Written by Jay Sueno
+_Excel, VBA, Macros, Conditional Formatting_
 
 In this project, I automate an Excel workbook to pull relevant data from thousands of rows in multiple worksheet and outputs summary columns of the stocks. This is done using a macro and VBA script. This script retrieves values, calculates simple arithmetic functions, and returns the following outputs:
 * Greatest % Increase
@@ -26,6 +27,18 @@ In this project, I automate an Excel workbook to pull relevant data from thousan
 
 1. For faster example: open "alphabetical_testing.xlsm"
 2. For the multi-year stock market breakdown: open "Multiple_year_stock_data.xlsm"
+
+## Images
+
+1. Pre macro
+![worksheet pre macro](images/vba2.jpg)
+
+2. Post macro - press the button and the output and summary values populate the worksheets
+![worksheet post macro](images/vba3.jpg)
+
+3. Look into the VBA script
+![vba code](images/vba1.jpg)
+
 
 ### About the Data
 
