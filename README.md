@@ -41,6 +41,6 @@ In this project, I automate an Excel workbook to pull relevant data from thousan
 
 Data is in Excel format. It was pulled from Quandl and consist of alphabetically and yearly organized worksheets.
 
-### To learn more about Jay Sueno visit his [LinkedIn Profile](https://www.linkedin.com/in/jay-sueno-359a274/)
+### To learn more about Jay Sueno visit his [LinkedIn Profile](https://www.linkedin.com/in/jaysueno)
 
-##### All rights reserved 2020. All code is created and owned by Jay Sueno. If you use his code, please visit his LinkedIn and give him a a skill endorsement in python and data science. Visit him at: https://www.linkedin.com/in/jay-sueno-359a274/
+##### All rights reserved 2020. All code is created and owned by Jay Sueno. If you use his code, please visit his LinkedIn and give him a a skill endorsement in python and data science. Visit him at: https://www.linkedin.com/in/jaysueno/
